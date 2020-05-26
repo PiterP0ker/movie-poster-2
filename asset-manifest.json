@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-poster-2/static/css/main.cab8b1b3.chunk.css",
+    "main.js": "/movie-poster-2/static/js/main.36cbc534.chunk.js",
+    "main.js.map": "/movie-poster-2/static/js/main.36cbc534.chunk.js.map",
+    "runtime-main.js": "/movie-poster-2/static/js/runtime-main.4f7aeda5.js",
+    "runtime-main.js.map": "/movie-poster-2/static/js/runtime-main.4f7aeda5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/movie-poster-2/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.339b993c.chunk.js": "/movie-poster-2/static/js/2.339b993c.chunk.js",
+    "static/js/2.339b993c.chunk.js.map": "/movie-poster-2/static/js/2.339b993c.chunk.js.map",
+    "index.html": "/movie-poster-2/index.html",
+    "precache-manifest.389db2424a0f7c5f2e429fc9d21fce61.js": "/movie-poster-2/precache-manifest.389db2424a0f7c5f2e429fc9d21fce61.js",
+    "service-worker.js": "/movie-poster-2/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/movie-poster-2/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.cab8b1b3.chunk.css.map": "/movie-poster-2/static/css/main.cab8b1b3.chunk.css.map",
+    "static/js/2.339b993c.chunk.js.LICENSE.txt": "/movie-poster-2/static/js/2.339b993c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f7aeda5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.339b993c.chunk.js",
+    "static/css/main.cab8b1b3.chunk.css",
+    "static/js/main.36cbc534.chunk.js"
+  ]
+}
